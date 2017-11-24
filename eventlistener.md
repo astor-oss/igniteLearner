@@ -2,6 +2,8 @@
 
 
 
+![](/assets/Event.png)
+
 ```
 import org.apache.ignite.Ignite;
 ```
